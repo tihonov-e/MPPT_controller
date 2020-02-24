@@ -1,0 +1,27 @@
+#$ cat .gitignore
+
+# игнорирование папки с временными копиями
+*HARDWARE (Altium)/History/
+
+
+# игнорирование папки preview
+*HARDWARE (Altium)/__Previews
+
+
+# игнорирование папки LOGS
+*HARDWARE (Altium)/Project Logs for MPPT_controller
+
+
+# игнорирование прочих папок
+*History/
+*Pdf/
+*Modeling/
+*Examples/
+
+
+# игнорирование всех превью и временных файлов
+*.PcbDocPreview
+*.SchDocPreview
+*.PrjPcb.Zip
+*.SchDoc.Zip
+*.LOG
