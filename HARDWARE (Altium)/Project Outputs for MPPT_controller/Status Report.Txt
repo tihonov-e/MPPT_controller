@@ -1,9 +1,13 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [MPPT_controller.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_MPPT.PcbDoc]
+   Generated File[PCB_MPPT-RoundHoles.TXT]
+   Generated File[PCB_MPPT-SlotHoles.TXT]
+   Generated File[PCB_MPPT.LDP]
+   Generated File[PCB_MPPT.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 22:38:10 On 25.02.2020
+Finished Output Generation At 21:53:25 On 16.03.2020

@@ -19,7 +19,7 @@
 *Examples/
 *LIB/
 *e-mail/
-
+*Customer_files/
 
 # игнорирование всех превью и временных файлов
 *.PcbDocPreview

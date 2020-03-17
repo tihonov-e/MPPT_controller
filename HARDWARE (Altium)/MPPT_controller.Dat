@@ -1,0 +1,110 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~225|Field=PartNumber~String~PartNumber~187|Field=Manufacturer~String~Manufacturer~187|Field=Quantity~Integer~Quantity~187|Field=ValueManufacturerPartNumber~String~ValueManufacturerPartNumber~103|Field=HelpURL~String~HelpURL~133|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MPPT_controller.PrjPcb|ReportField=ProjectFullPath~D:\Work\HEVEL\MPPT_controller\HARDWARE (Altium)\MPPT_controller.PrjPcb|ReportField=Title~Bill of Materials For Project [MPPT_controller.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~242|ReportField=ReportTime~22:47:29|ReportField=ReportDate~09.03.2020|ReportField=ReportDateTime~09.03.2020 22:47:29|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~Грефенштейн|ReportField=CompanyName~|ReportField=CurrentDate~09.03.2020|ReportField=CurrentTime~22:42:17|ReportField=CustomerNumber~|ReportField=Date~|ReportField=DecimalNumber~{DecimalNumber}|ReportField=DocumentFullPathAndName~D:\Work\HEVEL\MPPT_controller\HARDWARE (Altium)\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DocumentStatus~Released|ReportField=DocumentType~Схема электрическая принципиальная|ReportField=DrawnBy~Тихонов|ReportField=Engineer~|ReportField=FirstApp~|ReportField=ImagePath~|ReportField=Language~en|ReportField=Liter~|ReportField=ModifiedDate~09.03.2020|ReportField=NormControl~|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.96:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-4:MediaType=1:DitherType=10:PaperKind=A3:PrintScaleMode=1|ReportField=ProjectName~MPPT_controller.PrjPcb|ReportField=ResponsibleDept~DED|ReportField=Revision~|ReportField=Rule~|ReportField=Scale~|ReportField=SheetNumber~1|ReportField=SheetTotal~2|ReportField=TechControl~|ReportField=Time~|ReportField=Title~|ReportField=Title0~Плата заряда аккумулятора|ReportField=Title1~|ReportField=ConfigurationParameters~|ReportField=EngineerName~|ReportField=FirstReferrence~|ReportField=Letter1Column~|ReportField=Letter2Column~|ReportField=Letter3Column~|ReportField=Mass~|ReportField=NormInspection~|ReportField=ProcessInspection~|ReportField=Title2str~|ReportField=DataSourceFileName~MPPT_controller.PrjPcb|ReportField=DataSourceFullPath~D:\Work\HEVEL\MPPT_controller\HARDWARE (Altium)\MPPT_controller.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|A1|RN4870-I/RM128|Microchip Technology|1|Bluetooth Module|https://www.digikey.com/product-detail/en/microchip-technology/RN4870-I-RM128/RN4870-I-RM128-ND/8037764
+2|C1, C2, C3|EEH-ZA1J330P|Panasonic|3|EP-cap, 33mk, 63V, ±20%|https://www.digikey.com/product-detail/en/panasonic-electronic-components/EEH-ZA1J330P/P15448CT-ND/3088162
+3|C4, C5, C6, C7, C25, C40, C42|12101C225KAT2A|AVX|7|CAP CER, 2.2mk, X7R, ±10%, 100V, 1210|https://www.digikey.com/product-detail/en/avx-corporation/12101C225KAT2A/478-7974-1-ND/3881597
+4|C8, C9, C11, C12|C4532X7S2A475M230KB|TDK|4|CAP CER, 4.7mk, X7S, ±20%, 100V, 1812|https://www.digikey.com/product-detail/en/tdk-corporation/C4532X7S2A475M230KB/445-5211-1-ND/2116346
+5|C10, C26, C34, C38, C43, C44|06031C104KAT2A|AVX|6|CAP CER, 0.1mk, X7R, ±10%, 100V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/06031C104KAT2A/478-10047-1-ND/6564270
+6|C13|EKZE101ELL221MK25S|United Chemi-Con|1|CAP ALUM, 220mk, 100V, ±20%|https://www.digikey.com/product-detail/en/united-chemi-con/EKZE101ELL221MK25S/565-1739-ND/756255
+7|C14, C17, C33, C35, C46, C48, C55, C59|06031C103KAT2A|AVX|8|CAP CER, 0.01mk, X7R, ±10%, 100V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/06031C103KAT2A/478-1205-2-ND/563315
+8|C15, C16|GRM188R71C474KA88D|Murata|2|CAP CER, 0.47mk, X7R, ±10%, 16V, 0603|https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71C474KA88D/490-3295-1-ND/702836
+9|C18, C19|12061A102KAT2A|AVX|2|CAP CER, 1000p, NP0, ±10%, 100V, 1206|https://www.digikey.com/product-detail/en/avx-corporation/12061A102KAT2A/478-5168-1-ND/1913258
+10|C20|0603YC102MAT4A|AVX|1|CAP CER, 1n, X7R, ±20%, 16V, 0603|https://www.digikey.com/products/en?keywords=0603YC102MAT4A
+11|C21, C22|0603YC332MAT4A|AVX|2|CAP CER, 3.3n, X7R, ±20%, 16V, 0603|https://www.digikey.com/products/en?keywords=0603YC102MAT4A
+12|C23, C24|0603YD224KAT2A|AVX|2|CAP CER, 0.22mk, X5R, ±20%, 16V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/0603YD224KAT2A/478-1246-1-ND/564278
+13|C27, C32, C50, C58|0603YC105KAT2A|AVX|4|CAP CER, 1mk, X7R, ±10%, 16V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/0603YC105KAT2A/478-5010-1-ND/1888221
+14|C28|12101C105KAT2A|AVX|1|CAP CER, 1mk, X7R, ±10%, 100V, 1210|https://www.digikey.com/product-detail/en/avx-corporation/12101C105KAT2A/478-2570-1-ND/717515
+15|C29, C30, C56|0603ZD225KAT2A|AVX|3|CAP CER, 2.2mk, X5R, ±10%, 10V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/0603ZD225KAT2A/478-6212-1-ND/2391411
+16|C31, C67, C72|0805YC475KAT2A|AVX|3|CAP CER, 4.7mk, X7R, ±10%, 16V, 0805|https://www.digikey.com/product-detail/en/avx-corporation/0805YC475KAT2A/478-5722-1-ND/2136330
+17|C36|0603YC683KAT2A|AVX|1|CAP CER, 0.068mk, X7R, ±10%, 16V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/0603YC683KAT2A/478-1237-1-ND/564269
+18|C37|06033A221JAT2A|AVX|1|CAP CER, 220p, X7R, ±5%, 25V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/06033A221JAT2A/478-12678-2-ND/1599160
+19|C39|06035C682KAT2A|AVX|1|CAP CER, 6.8n, X7R, ±10%, 50V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/06035C682KAT2A/478-1225-1-ND/564257
+20|C41|08051C104JAT2A|AVX|1|CAP CER, 0.1mk, X7R, ±10%, 100V, 0805|https://www.digikey.com/product-detail/en/avx-corporation/08051C104JAT2A/478-5780-1-ND/2136372
+21|C45|C3216X5R1E476M160AC|TDK|1|CAP CER, 47mk, X5R, ±10%, 25V, 1206|https://www.digikey.com/product-detail/en/tdk-corporation/C3216X5R1E476M160AC/445-8047-1-ND/2792164
+22|C47|0603ZD106MAT2A|AVX|1|CAP CER, 10mk, X5R, ±10%, 10V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/0603ZD106MAT2A/478-8050-1-ND/3900666
+23|C49, C51, C52, C53, C54, C57, C60, C63, C64, C65, C66, C68, C69, C70, C71|0603YC104KAT2A|AVX|15|CAP CER, 0.1mk, X7R, ±10%, 16V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/0603YC104KAT2A/478-1239-1-ND/564271
+24|C61, C62|06035A160JAT2A|AVX|2|CAP CER, 16p, NP0, ±5%, 50V, 0603|https://www.digikey.com/product-detail/en/avx-corporation/06035A160JAT2A/478-10292-1-ND/6797449
+25|DA1|LT8491EUKJ#PBF|Linear Technology|1||https://www.digikey.com/product-detail/en/linear-technology-analog-devices/LT8491EUKJ-PBF/161-LT8491EUKJ-PBF-ND/11586954
+26|DA2|LTC4359CDCB|Linear Technology/Analog Devices|1|IC, Ideal Diode Controller, 6-DFN (2x3)|https://www.digikey.com/product-detail/en/linear-technology-analog-devices/LTC4359CDCB-TRMPBF/LTC4359CDCB-TRMPBFCT-ND/5223322
+27|DA3|LMR16006YDDCR|Texas Instruments|1|DC/DC buck converter, SOT23-6|https://www.digikey.com/product-detail/en/texas-instruments/LMR16006YDDCR/296-40294-1-ND/5178171
+28|DA4|MCP111T-195I/LB|Microchip Technology|1|Supervisor,SOT-23|https://www.digikey.com/product-detail/en/microchip-technology/MCP111T-195I-LB/MCP111T-195I-LBCT-ND/9642872
+29|DD1|STM32F334C4T6|STMicroelectronics|1|IC microcontroller, 32-Bit, Cortex-M4, 72MHz, 16KB, 12KB, 48-LQFP|https://www.digikey.com/products/en?keywords=STM32F334C4T6
+30|DD2|SN65HVD231DR|Texas Instruments|1|IC CAN transceiver, 8-SOIC|https://www.digikey.com/product-detail/en/texas-instruments/SN65HVD231DR/296-26343-1-ND/2254977
+31|DD3|24AA01T-I/OT|Microchip Technology|1|EEPROM, 1KB (128x8), 400 kHz, I2C, SOT-23-5|https://www.digikey.com/product-detail/en/microchip-technology/24AA01T-I-OT/24AA01T-I-OTCT-ND/857670
+32|DD4|ISO7721DR|Texas Instruments|1|IC digital isolator, 8-SOIC|https://www.digikey.com/product-detail/en/texas-instruments/ISO7721DR/296-48296-1-ND/8347715
+33|DD5|CP2102N-A02-GQFN24|Silicon Labs|1|USB Bridge, USB to UART, USB2.0, 24-QFN(4x4)|https://www.digikey.com/product-detail/en/silicon-labs/CP2102N-A02-GQFN24/336-5887-ND/9863476
+34|FU1|01110506Z|Littelfuse|1|FUSE CLIP, 250VAC, 10A, 5x20mm|https://www.digikey.com/product-detail/en/littelfuse-inc/01110506Z/F4083-ND/2519783
+35|JP1, JP2|61300411121|Würth Elektronik|2|PLS-2 SINGLE ROW, 2pin, 2.54mm, 500VAC, 3A|https://www.digikey.com/product-detail/en/w-rth-elektronik/61300411121/732-5317-ND/4846827
+36|L1|7443633300|Würth Elektronik|1|Fixed inductor, 33mkH, ±15%, SMD Shielded, Ferrite (MnZn), , 12A|https://www.digikey.com/product-detail/en/w-rth-elektronik/7443633300/732-2524-1-ND/2440407
+37|L2|SRU8043-330Y|Bourns Inc.|1|Fixed inductor, 33mkH, ±15%, SMD Nonstandard, Ferrite, , 1.7A|https://www.digikey.com/product-detail/en/bourns-inc/SRU8043-330Y/SRU8043-330YCT-ND/2353063
+38|L3|LQM21DH100M70L|Murata Electronics|1|Fixed inductor, 10μH, ±20%, 0805, 250mA|https://www.digikey.com/product-detail/en/murata-electronics/LQM21DH100M70L/490-18463-1-ND/10135474
+39|R1|WSL25125L000FEA18|Vishay|1|Res, SMD, 0.005, ±1%, 2512, 2W|https://www.digikey.com/product-detail/en/vishay-dale/WSL25125L000FEA18/WSLH-.005CT-ND/2695193
+40|R2|WSL2512R0250FEA18|Vishay|1|Res, SMD, 0.025, ±1%, 2512, 2W|https://www.digikey.com/product-detail/en/vishay-dale/WSL2512R0250FEA18/WSLH-.025CT-ND/2695207
+41|R3, R4, R5, R14, R15|CRCW060310R0JNEAC|Vishay|5|Res, SMD, 10, ±5%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060310R0JNEAC/541-4057-1-ND/7928740
+42|R6, R7|CRCW12061R20FKEA|Vishay|2|Resistor film, 1.2, ±5%, 1206, 0.25W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW12061R20FKEA/541-1.20FFCT-ND/1962233
+43|R8, R9, R10, R11, R13|CRCW06033R00JNEA|Vishay|5|Res, SMD, 3, ±5%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06033R00JNEA/541-3.0GCT-ND/1179308
+44|R12|WSL25126L000FEA18|Vishay|1|Res, SMD, 0.006, ±1%, 2512, 2W|https://www.digikey.com/product-detail/en/vishay-dale/WSL25126L000FEA18/WSLH-.006CT-ND/2695194
+45|R16, R21, R40, R43, R45*, R54, R72, R75, R76, R78, R79, R80, R81, R83, R85, R86, R87, R91|CRCW06030000Z0EA|Vishay|18|Res, SMD, 0, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06030000Z0EA/541-0.0GCT-ND/1179296
+46|R17|CRCW060391K0FKEA|Vishay|1|Res, SMD, 91k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060391K0FKEA/541-91.0KHCT-ND/1180034
+47|R18, R89|CRCW06031M10FKEA|Vishay|2|Res, SMD, 1.1M, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06031M10FKEA/541-1.10MHCT-ND/1180156
+48|R19|CRCW0603196KFKEA|Vishay|1|Res, SMD, 196k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0603196KFKEA/541-196KHCT-ND/1180069
+49|R20, R53, R64, R82, R90, R101, R102, R105, R108|CRCW06031K00FKEA|Vishay|9|Res, SMD, 1k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06031K00FKEA/541-1.00KHCT-ND/1179809
+50|R22|CRCW060322K6FKEA|Vishay|1|Res, SMD, 22.6k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060322K6FKEA/541-22.6KHCT-ND/1179962
+51|R23|CRCW0603115KFKEA|Vishay|1|Res, SMD, 115k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0603115KFKEA/541-115KHCT-ND/1180044
+52|R24, R56|CRCW060328K0FKEAHP|Vishay|2|Res, SMD, 28k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060328K0FKEAHP/541-28.0KSCT-ND/2826000
+53|R25|CRCW06035K60FKEA|Vishay|1|Res, SMD, 5.6k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06035K60FKEA/541-5.60KHCT-ND/1179894
+54|R26|CRCW0603200KFKEAC|Vishay|1|Res, SMD, 200k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0603200KFKEAC/541-4027-1-ND/7928710
+55|R27|CRCW060320K0FKEC|Vishay|1|Res, SMD, 20k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060320K0FKEC/541-2993-1-ND/6073636
+56|R28|CRCW06038K06FKEA|Vishay|1|Res, SMD, 8.06k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06038K06FKEA/541-8.06KHCT-ND/1179912
+57|R29|CRCW060311K3FKEA|Vishay|1|Res, SMD, 11.3k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060311K3FKEA/541-11.3KHCT-ND/1179929
+58|R30, R50, R74, R88|CRCW0603100KFKEA|Vishay|4|Res, SMD, 100k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0603100KFKEA/541-100KHCT-ND/1180038
+59|R31|CRCW06031K30FKEA|Vishay|1|Res, SMD, 1.3k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06031K30FKEA/541-1.30KHCT-ND/1179821
+60|R32|CRCW06031R00FKEAC|Vishay|1|Res, SMD, 1, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06031R00FKEAC/541-3956-1-ND/7928639
+61|R33|CRCW0603549RFKEA|Vishay|1|Res, SMD, 549, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0603549RFKEA/541-549HCT-ND/1179779
+62|R34|CRCW060321K0FKEA|Vishay|1|Res, SMD, 21k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060321K0FKEA/541-21.0KHCT-ND/1179958
+63|R35, R38, R39, R49, R60, R61, R62, R63, R66, R67, R77, R84, R92, R94, R97, R99, R100, R109|CRCW060310K0JNEAC|Vishay|18|Res, SMD, 10k, ±5%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060310K0JNEAC/541-3957-1-ND/7928640
+64|R36|CRCW06033K01FKEA|Vishay|1|Res, SMD, 3.01k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06033K01FKEA/541-3.01KHCT-ND/1179862
+65|R37|CRCW0603127KFKEA|Vishay|1|Res, SMD, 127k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0603127KFKEA/541-127KHCT-ND/1180049
+66|R41|CRCW0603215KFKEA|Vishay|1|Res, SMD, 215k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0603215KFKEA/541-215KHCT-ND/1180073
+67|R42|CRCW060353K6FKEA|Vishay|1|Res, SMD, 53.6k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060353K6FKEA/541-53.6KHCT-ND/1180007
+68|R44|CRCW060330K1FKEAHP|Vishay|1|Res, SMD, 30.1k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060330K1FKEAHP/541-30.1KSCT-ND/5326838
+69|R46|CRCW060311K5FKEA|Vishay|1|Res, SMD, 11.5k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060311K5FKEA/541-11.5KHCT-ND/1179930
+70|R47|CRCW06034K99FKEAC|Vishay|1|Res, SMD, 4.99k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06034K99FKEAC/541-3985-1-ND/7928668
+71|R48|CRCW0603110KFKEA|Vishay|1|Res, SMD, 110k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0603110KFKEA/541-110KHCT-ND/1180042
+72|R51|CRCW060335K7FKEA|Vishay|1|Res, SMD, 35.7k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060335K7FKEA/541-35.7KHCT-ND/1179985
+73|R52|CRCW060333K2FKEAC|Vishay|1|Res, SMD, 33.2k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060333K2FKEAC/541-4052-1-ND/7928735
+74|R55|B57401V2472J062|TDK|1|NTC resistor, 4k7, ±5%, 0805, 3650K, -55...+125°C|https://www.digikey.com/product-detail/en/tdk-electronics-inc/B57401V2472J062/495-7444-1-ND/6073136
+75|R57, R93, R95, R96|CRCW0603330RFKEAC|Vishay|4|Res, SMD, 330, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0603330RFKEAC/541-4026-1-ND/7928709
+76|R58|CRCW08055K10FKEA|Vishay|1|Resistor film, 5.1k, ±1%, 0805, 0.125W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW08055K10FKEA/541-5.10KCCT-ND/1180863
+77|R59|CRCW06038K45FKEA|Vishay|1|Res, SMD, 8.45k, ±1%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW06038K45FKEA/541-8.45KHCT-ND/1179916
+78|R65, R68, R69, R70, R71, R73, R103, R104, R106, R107|CRCW060322R0JNEA|Vishay|10|Res, SMD, 22, ±5%, 0603, 0.1W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW060322R0JNEA/541-22GCT-ND/1179329
+79|R98|CRCW0805120RJNEA|Vishay|1|Resistor film, 120, ±5%, 0805, 0.125W|https://www.digikey.com/product-detail/en/vishay-dale/CRCW0805120RJNEA/541-120ACT-ND/1180318
+80|SB1, SB2, SB3|FSM2JSMAATR|TE Connectivity|3|Tactile button, 6x6mm|https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/FSM2JSMAATR/450-1792-1-ND/3503931
+81|VD1|NTS10100MFST3G|ON Semiconductor|1|Schottky diode, 100V, 10A, 690mV @ 10A, 8-PowerTDFN, 5 Leads|https://www.digikey.com/product-detail/en/on-semiconductor/NTS10100MFST3G/NTS10100MFST3GCT-ND/6050812
+82|VD2|SMAJ48A-13-F|Diodes Incorporated|1|TVS DIODE UNI, 48V, 400W, SMA|https://www.digikey.com/product-detail/en/diodes-incorporated/SMAJ48A-13-F/SMAJ48A-FDICT-ND/816024
+83|VD3, VD4|CMMR1U-02 TR|Central Semi.|2|Ultra Fast Rectifier Single, 200V, 1A, SOD-123F|https://www.digikey.com/product-detail/en/central-semiconductor-corp/CMMR1U-02-TR-PBFREE/1514-CMMR1U-02TRPBFREECT-ND/4807014
+84|VD5, VD9, VD12, VD13, VD18|150060VS75000|Wurth|5|LED GREEN, 0603|https://www.digikey.com/product-detail/en/wurth-electronics-inc/150060VS75000/732-4980-1-ND/4489904
+85|VD6|BZT52C12T-7|Diodes Incorporated|1|Zener diode, 12V, 300mW, SOD-523|https://www.digikey.com/product-detail/en/diodes-incorporated/BZT52C12T-7/BZT52C12T-7DICT-ND/2181075
+86|VD7|SMAT70A-13-F|Diodes Incorporated|1|TVS DIODE UNI, 70V, 400W, SMA|https://www.digikey.com/product-detail/en/diodes-incorporated/SMAT70A-13-F/SMAT70A-FDICT-ND/804910
+87|VD8|SMAJ24A-13-F|Diodes Incorporated|1|TVS DIODE UNI, 24V, 400W, SMA|https://www.digikey.com/product-detail/en/diodes-incorporated/SMAJ24A-13-F/SMAJ24A-FDICT-ND/724994
+88|VD10|MBR0580S1-7|Vishay|1|Schottky diode, 100V, 1A, , SMA|https://www.digikey.com/product-detail/en/vishay-semiconductor-diodes-division/VS-10MQ100NTRPBF/10MQ100NPBFCT-ND/812503
+89|VD11, VD15|150060BS75000|Wurth|2|LED, 0603|https://www.digikey.com/product-detail/en/wurth-electronics-inc/150060BS75000/732-4966-1-ND/4489893
+90|VD14|ESDCAN06-2BLY|STMicroelectronics|1|TVS diode, 24V, 230W peak, 3A, 13pF, SOT-23, -40...+150°C|https://www.digikey.com/product-detail/en/stmicroelectronics/ESDCAN06-2BLY/497-19090-1-ND/10057130
+91|VD16|150060YS75000|Wurth|1|LED, 0603|https://www.digikey.com/product-detail/en/wurth-electronics-inc/150060YS75000/732-4981-1-ND/4489907
+92|VD17|USBLC6-2SC6|ST Microelectronics|1|TVS USB ESD, 5V, SOT23-6L|https://www.digikey.com/product-detail/en/stmicroelectronics/USBLC6-2SC6/497-5235-1-ND/1121688
+93|VT1, VT2, VT3, VT4|BSC110N15NS5|Infineon Technologies|4|MOSFET N-ch, 150V, PG-TDSON-8|https://www.digikey.com/product-detail/en/infineon-technologies/BSC110N15NS5ATMA1/BSC110N15NS5ATMA1TR-ND/5959916
+94|VT5, VT7, VT8|MMBT3904-7-F|Diodes Inc.|3|NPN transistor, 40V, 200mA, SOT-23|https://www.digikey.com/product-detail/en/diodes-incorporated/MMBT3904-7-F/MMBT3904-FDICT-ND/815727
+95|VT6|FDMS86101|ON Semiconductor|1|MOSFET N-ch, 100V, 12A, 8-PowerTDFN|https://www.digikey.com/product-detail/en/on-semiconductor/FDMS86101/FDMS86101CT-ND/2060386
+96|XP1|5000|Keystone|1|Test Point, Red|https://www.digikey.com/product-detail/en/keystone-electronics/5000/36-5000-ND/255326
+97|XP2|5000|Keystone|1|Test Point, Red|https://www.digikey.com/product-detail/en/keystone-electronics/5000/36-5000-ND/255326
+98|XP3|5000|Keystone|1|Test Point, Red|https://www.digikey.com/product-detail/en/keystone-electronics/5000/36-5000-ND/255326
+99|XP4|5001|Keystone|1|Test Point, Black|https://www.digikey.com/product-detail/en/keystone-electronics/5001/36-5001-ND/255327
+100|XP5|5001|Keystone|1|Test Point, Black|https://www.digikey.com/product-detail/en/keystone-electronics/5001/36-5001-ND/255327
+101|XP6|5000|Keystone|1|Test Point, Red|https://www.digikey.com/product-detail/en/keystone-electronics/5000/36-5000-ND/255326
+102|XP7|IDC-20M|On Shore Technology Inc.|1|Connector IDC, 20pin, 2.54mm|https://www.digikey.com/product-detail/en/on-shore-technology-inc/302-S201/ED10524-ND/2794235
+103|XP8|3220-10-0300-00|CNC Tech|1|IDC1.27-10M (SMD), 10pin, 1.27mm, , 1A|https://www.digikey.com/product-detail/en/cnc-tech/3220-10-0300-00/1175-1629-ND/3883266
+104|XP9|0475890001|Molex|1|USB micro (AB)|https://www.digikey.com/product-detail/en/molex/0475890001/WM17143DKR-ND/1832257
+105|XP10|5001|Keystone|1|Test Point, Black|https://www.digikey.com/product-detail/en/keystone-electronics/5001/36-5001-ND/255327
+106|XT1, XT2, XT4|6PCV-02-006|TE Connectivity|3|Connector, 2pin, 9.53mm, 300VAC, 25A|https://www.digikey.com/products/en?keywords=6PCV-02-006
+107|XT3|1546551-3|TE Connectivity|1|TERM CONN., 3pin, 3.5mm|https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/1546551-3/A112369-ND/2221615
+108|XT5|1546551-3|TE Connectivity|1|TERM CONN., 3pin, 2.54mm|https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/1546551-3/A112369-ND/2221615
+109|Z1|ECS-80-18-30B-AGN-TR|ECS Inc.|1|Oscilator, 8MHz, 18pF, ±25ppm, case 5032|https://www.digikey.com/product-detail/en/ecs-inc/ECS-80-18-30B-AGN-TR/XC2709CT-ND/8023644
