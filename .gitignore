@@ -20,6 +20,8 @@
 *LIB/
 *e-mail/
 *Customer_files/
+*Contract/
+*e-mail/
 
 # игнорирование всех превью и временных файлов
 *.PcbDocPreview
