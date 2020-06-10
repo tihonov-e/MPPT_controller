@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB_MPPT.PcbDoc   18.03.2020  19:27:52
+NCDrill File Report For: PCB_MPPT.PcbDoc   26.05.2020  0:39:43
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -11,7 +11,7 @@ Tool       Hole Size               Hole Tolerance               Hole Type       
 T1      0.3mm (12mil)                                             Round             619       PTH        2559.11mm (100.75inch)
 T2      0.5mm (20mil)                                             Round             21        PTH        188.66mm (7.43inch)
 T3      0.6mm (24mil)                                             Slot              4         PTH        27.41mm (1.08inch)
-T4      0.7mm (28mil)                                             Slot              4         PTH        56.04mm (2.21inch)
+T4      0.7mm (28mil)                                             Slot              4         PTH        58.27mm (2.29inch)
 T5      0.9mm (35mil)                                             Round             2         PTH        5.00mm (0.20inch)
 T6      1mm (39mil)                                               Round             27        PTH        336.71mm (13.26inch)
 T7      1.1mm (43mil)                                             Round             4         PTH        55.27mm (2.18inch)
@@ -21,4 +21,4 @@ T10     3.5mm (138mil)                                            Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              699
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
