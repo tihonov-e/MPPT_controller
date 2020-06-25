@@ -1,0 +1,30 @@
+Output Feedback Resistor Network:
+
+RFBOUT2 (R27)=	20000	Ohm		
+RFBOUT1 (R18)=	820000	Ohm
+RDACO2(R23)=	120000	Ohm	
+RDACO1(R22)=	24000	Ohm	
+CDACO=	100	nF
+
+
+
+Input Feedback Resistor Network
+
+Rfbin1 (R17 + R20) =	95,2	k
+Rdaci2 (R24)=	14,3	k
+Rfbin2 (R29)=	7,32	k
+Rdaci1 (R25)=	2,86	k
+Cdaci (C27)=	0,47	mkF
+	
+HW Config: Output Current Sense and Limit		
+
+R_SENSE2 (R2)= 12	mOhm
+R_IMON_OUT (R44)= 25.5	k
+R_IOW= exclude
+
+
+The input current limit
+
+R_SENSE1 (R1)= 5	mOhm
+
+

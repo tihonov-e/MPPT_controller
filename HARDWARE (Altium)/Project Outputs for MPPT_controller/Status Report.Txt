@@ -1,13 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [PCB_MPPT.PcbDoc]
-   Generated File[PCB_MPPT-RoundHoles.TXT]
-   Generated File[PCB_MPPT-SlotHoles.TXT]
-   Generated File[PCB_MPPT.LDP]
-   Generated File[PCB_MPPT.DRR]
+Output: Report Project Hierarchy
+Type  : ReportHierarchy
+From  : Variant [[No Variations]] of Project [MPPT_controller.PrjPcb]
+   Generated File[Sheet2.REP]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 0:39:44 On 26.05.2020
+Finished Output Generation At 11:07:27 On Чт 18.06.20
