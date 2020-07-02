@@ -1,10 +1,14 @@
-Output: Report Project Hierarchy
-Type  : ReportHierarchy
-From  : Variant [[No Variations]] of Project [MPPT_controller.PrjPcb]
-   Generated File[Sheet2.REP]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:44:31 On Ïò 03.07.20
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [PCB_MPPT.PcbDoc]
+   Generated File[PCB_MPPT.step]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:07:27 On ×ò 18.06.20
+Finished Output Generation At 1:44:47 On Ïò 03.07.20
