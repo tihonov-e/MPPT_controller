@@ -1,14 +1,13 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 23:45:20 On Вс 05.07.20
-
-Output: AutoCAD dwg/dxf File PCB
-Type  : AutoCAD PCB
+Output: NC Drill Files
+Type  : NC Drill
 From  : PCB Document [PCB_MPPT_rev1.PcbDoc]
-   Generated File[PCB_MPPT_rev1.DXF]
+   Generated File[PCB_MPPT_rev1-RoundHoles.TXT]
+   Generated File[PCB_MPPT_rev1-SlotHoles.TXT]
+   Generated File[PCB_MPPT_rev1.LDP]
+   Generated File[PCB_MPPT_rev1.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 23:45:20 On Вс 05.07.20
+Finished Output Generation At 23:44:21 On Ср 08.07.20
